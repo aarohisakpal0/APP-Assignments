@@ -1,7 +1,3 @@
-# Assignment 4: Fibonacci using Dynamic Programming
-# Techniques used:
-# 1. Memoization (Top-Down)
-# 2. Tabulation (Bottom-Up)
 
 def fibonacci_memoization(n, memo=None):
     """Calculate nth Fibonacci number using memoization."""
