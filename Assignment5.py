@@ -1,5 +1,3 @@
-# Assignment 5: Longest Common Subsequence (LCS)
-# Dynamic Programming
 
 def lcs(sequence1, sequence2):
     m = len(sequence1)
