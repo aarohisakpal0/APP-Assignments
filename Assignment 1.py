@@ -1,5 +1,3 @@
-# Experiment 1: Simplified Library Management System
-# Object-Oriented Programming in Python
 
 class Book:
     def __init__(self, title):
